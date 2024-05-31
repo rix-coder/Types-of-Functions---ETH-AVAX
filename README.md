@@ -21,7 +21,7 @@ This program is a smart contract MyToken, a programming language used for develo
 -  Constructor() ERC20(): Initialize to input a token name, token symbol and initial supply.
 - function mintToke(): Initialize to mint a token. It needed a account address and amount value that you want to mint.
 - function burnToken(): Initialize to burn a token. It needed a account address and amount value that you want to burn.
-- function transferToke(): It allow to transfer a token to another account. It will input account address of sender and reciever, and also the amount of token that will transfer.
+- function transferToken(): It allow to transfer a token to another account. It will input account address of sender and reciever, and also the amount of token that will transfer.
 
 ## Executing program
 - To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
